@@ -34,8 +34,6 @@ My name is Güneş and I'm a web developer who is passionate about solving algor
       />
       <br /><strong>JavaScript</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
