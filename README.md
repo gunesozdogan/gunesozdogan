@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-My name is Güneş and I'm a web developer who is passionate about solving algorithms and creating modern, fast websites. Currently I'm learning asynchronous javascript and React. My aim is to become a higly skilled full stack web developer who can solve challening algorithms and has advance knowledge on front-end development that can provide quick solutions for the web-design.
+My name is Güneş and I'm a web developer who is passionate about using algorithms and creating modern, fast websites. Currently I'm learning asynchronous javascript and React. My aim is to become a higly skilled full stack web developer who can solve challenging problems with different algorithms and has advance knowledge on front-end development that can provide quick solutions for the web-design.
 
 
 ## 🔧 Technologies & Tools
@@ -69,6 +69,15 @@ My name is Güneş and I'm a web developer who is passionate about solving algor
         alt="Jest"
       />
       <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.linkpicture.com/q/icon-square-big.png"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
     </td>
   </tr>
 </table>
