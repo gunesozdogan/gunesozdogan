@@ -45,7 +45,7 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://freeimage.host/i/QtYtKx"
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg"
         width="48"
         height="48"
         alt="Webpack"
