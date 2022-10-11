@@ -71,7 +71,7 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
       />
       <br /><strong>Webpack</strong>
     </td>
-     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -89,7 +89,7 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
       />
       <br /><strong>CSS3</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"
         width="48"
