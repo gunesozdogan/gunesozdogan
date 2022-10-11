@@ -89,15 +89,6 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Sass</strong>
-    </td>
   </tr>
 </table>
 
