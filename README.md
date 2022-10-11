@@ -7,6 +7,33 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
 
 <table>
   <tr>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -22,16 +49,16 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
         width="48"
         height="48"
         alt="React"
-      />
+       />
       <br /><strong>React</strong>
-    </td>
-       <td align="center" height="108" width="108">
+     </td>
+     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg"
         width="48"
         height="48"
         alt="Redux"
-      />
+       />
       <br /><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
@@ -70,24 +97,6 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
         alt="Webpack"
       />
       <br /><strong>Webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
     </td>
   </tr>
 </table>
