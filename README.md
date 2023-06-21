@@ -48,7 +48,7 @@ My name is Güneş and I'm a web developer who is passionate about using algorit
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="npm"
       />
       <br /><strong>Npm</strong>
     </td>
