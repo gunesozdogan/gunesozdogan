@@ -35,6 +35,18 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
       <br /><strong>Next.js</strong>
     </td>
+    <td align="center" width="108" height="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Next.js"/>
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="108" height="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Next.js"/>
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="108" height="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Next.js"/>
+      <br /><strong>Mongoose</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" width="108" height="108">
