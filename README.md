@@ -25,6 +25,15 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
       />
       <br /><strong>JavaScript</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -37,6 +46,15 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
      <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+       />
+      <br /><strong>Redux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
         alt="Redux"
