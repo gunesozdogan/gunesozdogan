@@ -24,6 +24,10 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
       <br /><strong>React</strong>
     </td>
     <td align="center" width="108" height="108">
+      <img src="https://images.app.goo.gl/fCHttVmKJLC3kZu48" width="48" height="48" alt="Next.js"/>
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" width="108" height="108">
       <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/>
       <br /><strong>Redux</strong>
     </td>
