@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-My name is Güneş and I'm a web developer who is passionate about using algorithms and creating modern, fast websites. Currently I'm learning asynchronous javascript and React. My aim is to become a higly skilled full stack web developer who can solve challenging problems with different algorithms and has advance knowledge on front-end development that can provide quick solutions for the web-design.
+Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, high-performance websites using the latest technologies. My goal is to become a highly skilled full-stack developer, capable of tackling complex challenges with efficient algorithms and advanced frontend expertise. I strive to build seamless, scalable, and visually stunning web experiences with innovative solutions.
 
 
 ## 🔧 Technologies & Tools
