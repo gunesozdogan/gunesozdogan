@@ -62,7 +62,7 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
       <br /><strong>Jest</strong>
     </td>
     <td align="center" width="108" height="108">
-      <img src="https://www.linkpicture.com/q/icon-square-big.png" width="48" height="48" alt="Webpack"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack"/>
       <br /><strong>Webpack</strong>
     </td>
     <td align="center" width="108" height="108">
