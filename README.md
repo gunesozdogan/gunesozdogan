@@ -50,6 +50,10 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
   </tr>
   <tr>
     <td align="center" width="108" height="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Git"/>
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="108" height="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
       <br /><strong>Git</strong>
     </td>
