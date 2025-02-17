@@ -16,10 +16,6 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
       <br /><strong>TypeScript</strong>
     </td>
     <td align="center" width="108" height="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" width="108" height="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
       <br /><strong>React</strong>
     </td>
@@ -34,6 +30,14 @@ Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, hig
     <td align="center" width="108" height="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
       <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" width="108" height="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" width="108" height="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Node.js"/>
+      <br /><strong>Express</strong>
     </td>
     <td align="center" width="108" height="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Next.js"/>
