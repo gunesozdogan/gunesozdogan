@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-Hi, I'm Güneş — a passionate web developer dedicated to crafting modern, high-performance websites using the latest technologies. My goal is to become a highly skilled full-stack developer, capable of tackling complex challenges with efficient algorithms and advanced frontend expertise. I strive to build seamless, scalable, and visually stunning web experiences with innovative solutions.
+Hi, I'm Güneş, a passionate web developer with over 3 years of experience creating dynamic, high-performance web applications using React, TypeScript, and Next.js. I specialize in building both single-page and multipage websites, translating design concepts into responsive and functional interfaces. Currently, I am expanding my skill set by exploring Node.js to become a well-rounded full-stack developer, capable of solving complex challenges with efficient algorithms and advanced frontend expertise. My commitment to innovation and staying up-to-date with the latest web technologies drives me to deliver seamless, scalable, and visually impactful digital solutions that enhance user experiences and improve functionality.
 
 
 ## 🔧 Technologies & Tools
