@@ -1,8 +1,6 @@
 # 👋 Hi there 
 
-Frontend Developer with 4.5+ years of experience building 
-high-performance, scalable web applications using React, 
-TypeScript, and Next.js.
+Frontend Developer with 4.5+ years of experience building high-performance, scalable applications using React, TypeScript, JavaScript, Next.js, and Node.js.
 
 Delivered complex UI features for enterprise clients including 
 IKEA, Samsung, and L'Oreal at Insider. Currently shipping 
