@@ -1,6 +1,15 @@
 # 👋 Hi there 
 
-Hi, I'm Güneş, a passionate web developer with over 3 years of experience creating dynamic, high-performance web applications using React, TypeScript, and Next.js. I specialize in building both single-page and multipage websites, translating design concepts into responsive and functional interfaces. Currently, I am expanding my skill set by exploring Node.js to become a well-rounded full-stack developer, capable of solving complex challenges with efficient algorithms and advanced frontend expertise. My commitment to innovation and staying up-to-date with the latest web technologies drives me to deliver seamless, scalable, and visually impactful digital solutions that enhance user experiences and improve functionality.
+Frontend Developer with 4.5+ years of experience building 
+high-performance, scalable web applications using React, 
+TypeScript, and Next.js.
+
+Delivered complex UI features for enterprise clients including 
+IKEA, Samsung, and L'Oreal at Insider. Currently shipping 
+production-grade modules for 10M+ users at Huawei.
+
+METU Civil Engineering graduate with a strong analytical 
+background.
 
 
 ## 🔧 Technologies & Tools
